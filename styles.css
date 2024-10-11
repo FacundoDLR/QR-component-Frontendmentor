@@ -81,6 +81,7 @@ main{
     padding: var(--spacing200) var(--spacing200) var(--spacing500);
     border-radius: 20px;
     box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
+    filter: drop-shadow(0 25px 25px rgba(0, 0, 0, 0.0477));
 }
 
 .qr-box{
